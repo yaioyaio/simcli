@@ -1,6 +1,6 @@
 {
   "name": "simucli",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "ios device Simulator, terminal command line execute",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,7 +27,7 @@
     "ipad",
     "simucli"
   ],
-  "author": "yaio@naver.com",
+  "author": "yaioyaio@gmail.com",
   "license": "MIT",
   "dependencies": {
     "chalk": "3.0.0",
