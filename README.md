@@ -1,4 +1,4 @@
-Android AVD List -> Terminal Command Line Execute.
+iOS, iPhone, iPad, Simulator Device List -> Terminal Command Line Execute.
 
 npm repositpry : https://www.npmjs.com/package/simcli
 

@@ -1,0 +1,39 @@
+{
+  "name": "simcli",
+  "version": "0.0.1",
+  "description": "ios device Simulator, terminal command line execute",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "./lib/app.js",
+  "bin": {
+    "simcli": "./bin/simcli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaioyaio/simcli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yaioyaio/simcli/issues"
+  },
+  "homepage": "https://github.com/yaioyaio/simcli/blob/master/README.md",
+  "preferGlobal": true,
+  "keywords": [
+    "xcode",
+    "Simulator",
+    "simctl",
+    "command line",
+    "iphone",
+    "ipad",
+    "simcli"
+  ],
+  "author": "yaioyaio@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "3.0.0",
+    "commander": "4.1.1",
+    "inquirer": "7.0.5",
+    "open": "7.0.2",
+    "progress": "2.0.3"
+  }
+}
