@@ -1,9 +1,9 @@
 iOS, iPhone, iPad, Simulator Device List -> Terminal Command Line Execute.
 
-npm repositpry : https://www.npmjs.com/package/simcli
+npm repositpry : https://www.npmjs.com/package/simucli
 
-\$ npm i -g simcli
+\$ npm i -g simucli
 
-\$ simcli --version
+\$ simucli --version
 
-\$ simcli
+\$ simucli
